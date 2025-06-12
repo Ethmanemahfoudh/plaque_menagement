@@ -30,8 +30,8 @@ Une application web moderne développée avec React et TypeScript pour la gestio
 
 1. Cloner le repository
 ```bash
-git clone https://github.com/VOTRE-USERNAME/plaque-management-system.git
-cd plaque-management-system
+git clone https://github.com/Ethmanemahfoudh/plaque_menagement.git
+cd plaque_menagement
 ```
 
 2. Installer les dépendances
@@ -91,4 +91,4 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ## Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails. 
+Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
